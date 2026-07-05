@@ -1,7 +1,7 @@
-# [PROJECT BANNER PLACEHOLDER]
+# CAMTAG - OPENSOURCE ESP32 CINETAG ALTERNATIVE
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x320?text=Project+Banner" alt="Project banner placeholder">
+  <img src="https://canva.link/camtaglogo" alt="CAMTAG LOGO">
 </p>
 
 <p align="center">
