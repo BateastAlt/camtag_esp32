@@ -1,7 +1,4 @@
-# CAMTAG - OPENSOURCE ESP32 CINETAG ALTERNATIVE
-
-
-# CineTag
+# CAM TAG - ESP32 S3 CINETAG ALTERNATIVE
 
 Custom firmware for the Elecrow CrowPanel ESP32-S3 2.9" e-paper display, designed as a compact on-set camera info tag.
 
@@ -10,13 +7,6 @@ The device displays a large camera label plus configurable production metadata o
 ## Overview
 
 CineTag turns an Elecrow CrowPanel ESP32 2.9" e-paper module into a configurable camera slate companion.
-
-The screen can show:
-
-- A large letter from `A` to `F`
-- A primary information block such as `24 FPS`, `5600K`, or `180 DEG`
-- An optional secondary line under the primary information
-- Two secondary info zones such as `ND`, `SSD`, `SCENE`, `WHITE BALANCE`, or custom text
 
 The firmware also includes:
 
