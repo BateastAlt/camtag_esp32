@@ -51,12 +51,6 @@ Supporting display driver files:
   - `Shutter Angle`
   - `Storage`
   - `ND filters`
-- Screensaver with:
-  - `CAM / TAG` logo
-  - `BY BATEAST`
-  - `OS`
-  - `SSID`
-  - `IP`
 
 ## Web Interface
 
