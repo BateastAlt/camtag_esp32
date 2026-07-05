@@ -1,8 +1,6 @@
 # CAMTAG - OPENSOURCE ESP32 CINETAG ALTERNATIVE
 
-<p align="center">
-  <img src="https://canva.link/camtaglogo](https://i.postimg.cc/jS3v72tf/1.png" alt="CAMTAG LOGO">
-</p>
+[1.png](https://postimg.cc/757gvxCP)
 
 <p align="center">
   <img src="https://via.placeholder.com/180x180?text=Logo" alt="Project logo placeholder">
